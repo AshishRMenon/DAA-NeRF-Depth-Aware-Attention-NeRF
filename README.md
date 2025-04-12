@@ -23,3 +23,5 @@ This repository implements a novel NeRF-inspired architecture that performs **vi
 - Patch-wise training with 32x32 crops
 - End-to-end depth learning
 - Fully convolutional and efficient
+
+Results Coming soon!!
